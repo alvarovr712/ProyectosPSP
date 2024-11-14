@@ -1,0 +1,40 @@
+Argumentos recibidos:
+Rosa
+Miguel
+Pedro
+Nuevo examinado: Rosa
+Nuevo examinado: Miguel
+Nuevo examinado: Pedro
+Producido examen E1-2024
+Producido examen E1-2024
+Producido examen E1-2024
+E1-2024;Rosa; Pregunta 1;B
+E1-2024;Rosa; Pregunta 2;C
+E1-2024;Rosa; Pregunta 3;C
+E1-2024;Rosa; Pregunta 4;C
+E1-2024;Rosa; Pregunta 5;-
+E1-2024;Miguel; Pregunta 1;A
+E1-2024;Pedro; Pregunta 1;D
+E1-2024;Rosa; Pregunta 6;A
+E1-2024;Rosa; Pregunta 7;A
+E1-2024;Miguel; Pregunta 2;B
+E1-2024;Pedro; Pregunta 2;C
+E1-2024;Rosa; Pregunta 8;D
+E1-2024;Miguel; Pregunta 3;D
+E1-2024;Miguel; Pregunta 4;-
+E1-2024;Miguel; Pregunta 5;B
+E1-2024;Pedro; Pregunta 3;B
+E1-2024;Rosa; Pregunta 9;C
+E1-2024;Miguel; Pregunta 6;A
+E1-2024;Pedro; Pregunta 4;D
+E1-2024;Rosa; Pregunta 10;C
+E1-2024;Miguel; Pregunta 7;B
+E1-2024;Pedro; Pregunta 5;B
+E1-2024;Miguel; Pregunta 8;A
+E1-2024;Pedro; Pregunta 6;B
+E1-2024;Miguel; Pregunta 9;B
+E1-2024;Pedro; Pregunta 7;D
+E1-2024;Pedro; Pregunta 8;B
+E1-2024;Pedro; Pregunta 9;B
+E1-2024;Pedro; Pregunta 10;D
+E1-2024;Miguel; Pregunta 10;B

@@ -1,0 +1,9 @@
+Fecha y hora de inicio del proceso : 2024-10-11T19:38:38.883915800
+1234567
+123456
+12345
+1234
+123
+12
+1
+Fecha y hora de finalización del proceso : 2024-10-11T19:38:38.900916900

@@ -1,0 +1,40 @@
+Argumentos recibidos:
+Alvaro
+Maria
+Nano
+Nuevo examinado: Alvaro
+Nuevo examinado: Maria
+Nuevo examinado: Nano
+Producido examen E1-2024
+Producido examen E1-2024
+Producido examen E1-2024
+E1-2024;Alvaro; Pregunta 1;D
+E1-2024;Maria; Pregunta 1;-
+E1-2024;Maria; Pregunta 2;D
+E1-2024;Maria; Pregunta 3;B
+E1-2024;Maria; Pregunta 4;D
+E1-2024;Nano; Pregunta 1;-
+E1-2024;Alvaro; Pregunta 2;-
+E1-2024;Maria; Pregunta 5;D
+E1-2024;Nano; Pregunta 2;B
+E1-2024;Alvaro; Pregunta 3;B
+E1-2024;Nano; Pregunta 3;D
+E1-2024;Alvaro; Pregunta 4;D
+E1-2024;Nano; Pregunta 4;-
+E1-2024;Maria; Pregunta 6;A
+E1-2024;Alvaro; Pregunta 5;A
+E1-2024;Nano; Pregunta 5;A
+E1-2024;Maria; Pregunta 7;C
+E1-2024;Alvaro; Pregunta 6;C
+E1-2024;Nano; Pregunta 6;A
+E1-2024;Alvaro; Pregunta 7;A
+E1-2024;Maria; Pregunta 8;D
+E1-2024;Alvaro; Pregunta 8;A
+E1-2024;Maria; Pregunta 9;C
+E1-2024;Nano; Pregunta 7;A
+E1-2024;Alvaro; Pregunta 9;-
+E1-2024;Maria; Pregunta 10;-
+E1-2024;Nano; Pregunta 8;A
+E1-2024;Alvaro; Pregunta 10;C
+E1-2024;Nano; Pregunta 9;D
+E1-2024;Nano; Pregunta 10;B
